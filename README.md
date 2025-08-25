@@ -19,5 +19,5 @@ It allows you to upload a CSV dataset or use the provided sample dataset `Studen
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/MShahzad119/student-performance-app.git
+git clone https://github.com/MShahzad119/student-performance-app--Elevvo-Task-1st-ML-.git
 cd student-performance-app
